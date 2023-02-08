@@ -133,6 +133,9 @@ waka_59d02f10-de0d-4301-9a5a-7c38e756def9
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
+ <h3 id="trophies">Github trophies:</h3>
+<div id="trophies" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eskabore" alt="eskabore" /></a> </div>  
+
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
@@ -172,8 +175,7 @@ waka_59d02f10-de0d-4301-9a5a-7c38e756def9
  </div>
 
 
- <h3 id="trophies">Github trophies:</h3>
-<div id="trophies" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eskabore" alt="eskabore" /></a> </div>  
+
 
 <div class="stats" align="justify">
 
@@ -242,18 +244,6 @@ waka_59d02f10-de0d-4301-9a5a-7c38e756def9
 <!-- Hobbies -->
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31zjlqdgtbfbzigpej5j25o7wr6e&count=3&unique=true)
  
- 
-<!--
-**Eskabore/eskabore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on C & Python
-- 🌱 I’m currently learning TypeScript
-- 👯 I’m looking to collaborate on Reactjs
-- 🤔 I’m looking for help with Jest
-- 💬 Ask me about C, C++, HTML, CSS, SASS, JavaScript
-- 📫 How to reach me: jl.turquin@diffrenzz.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: ...
--->
+ ---
+<!-- Begin Footer -->
+<!-- Icons Resources -->
