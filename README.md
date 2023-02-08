@@ -188,11 +188,11 @@ waka_59d02f10-de0d-4301-9a5a-7c38e756def9
  
 <!-- Begin Footer -->
 <!-- Icons Resources -->
-\- ➡️ **Follow me on:**
+➡️ **Follow me on:**
 <p>  
 <a href="https://codepen.io/eskabore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="eskabore" height="30" width="40" /></a>  
 <a href="https://dev.to/eskabore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="eskabore" height="30" width="40" /></a>  
-<a href="https://twitter.com/luc\_turquin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luc\_turquin" height="30" width="40" /></a>  
+<a href="https://twitter.com/luc_turquin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luc_turquin" height="30" width="40" /></a>  
 <a href="https://codesandbox.com/eskabore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="eskabore" height="30" width="40" /></a> 
 </p>
 <br></br>
