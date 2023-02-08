@@ -11,7 +11,7 @@ waka_59d02f10-de0d-4301-9a5a-7c38e756def9
 
 
 <img
-  src="https://github.com/Eskabore/eskabore/blob/main/images/stat.svg"
+  src="https://github.com/Eskabore/eskabore/blob/trunk/images/stat.svg"
   alt="Alternative Text"
 />
 
