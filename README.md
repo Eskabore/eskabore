@@ -99,17 +99,14 @@ waka_59d02f10-de0d-4301-9a5a-7c38e756def9
 <h2 style="color: #44AEFB">🎦 Latest YouTube Videos</h2>
 <br />
 
+<!-- Resource/Reference: https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <div class="youtube videos cards" align="center">
-
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![CS50 2023 Final Project](https://ytcards.demolab.com/?id=gTvI4iPJbEg&title=CS50+2023+Final+Project&lang=en&timestamp=1668845475&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "CS50 Final Project 2023 - Number Converter")](https://www.youtube.com/watch?v=gTvI4iPJbEg)
-
-[![Outstanding GitHub Profile README Portfolio | 2 Ways in 4 Minutes!](https://ytcards.demolab.com/?id=jjilbKTNwLk&title=Outstanding+GitHub+Profile+README+Portfolio+%7C+2+Ways+in+4+Minutes%21&lang=en&timestamp=1665237440&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Outstanding GitHub Profile README Portfolio | 2 Ways in 4 Minutes!")](https://www.youtube.com/watch?v=jjilbKTNwLk)
-[![Scratch Functions | My Blocks](https://ytcards.demolab.com/?id=FqAvlmvfo7k&title=Scratch+Functions+%7C+My+Blocks&lang=en&timestamp=1664182702&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Scratch Functions | My Blocks")](https://www.youtube.com/watch?v=FqAvlmvfo7k)
-[![AI Car Racing Game In Scratch](https://ytcards.demolab.com/?id=4DIV3K7pOek&title=AI+Car+Racing+Game+In+Scratch&lang=en&timestamp=1663144511&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "AI Car Racing Game In Scratch")](https://www.youtube.com/watch?v=4DIV3K7pOek)
-[![What Is JSON And How To Generate And Parse It Using Node.js - In 7 Minutes](https://ytcards.demolab.com/?id=WskFRusLDI8&title=What+Is+JSON+And+How+To+Generate+And+Parse+It+Using+Node.js+-+In+7+Minutes&lang=en&timestamp=1662986380&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "What Is JSON And How To Generate And Parse It Using Node.js - In 7 Minutes")](https://www.youtube.com/watch?v=WskFRusLDI8)
-[![Simple pong game in python using pygame.](https://ytcards.demolab.com/?id=0-3HOwEegBI&title=Simple+pong+game+in+python+using+pygame.&lang=en&timestamp=1655742492&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Simple pong game in python using pygame.")](https://www.youtube.com/watch?v=0-3HOwEegBI)
+[![CS50P Indoor Voice | Python](https://ytcards.demolab.com/?id=nYInu6_l2Sk&title=CS50+Indoor+Voice+%7C+Python&lang=en&timestamp=1665237440&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "CS50P - Indoor Voice with Python")](https://www.youtube.com/watch?v=nYInu6_l2Sk)
+[![DiFfrenzZ Logo | Animation](https://ytcards.demolab.com/?id=35j3drHLczY&title=DiFfrenzZ+Logo+%7C+Animation&lang=en&timestamp=1664182702&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "DiFfrenzZ Logo | Animation")](https://www.youtube.com/watch?v=35j3drHLczY)
+[![DiFfrenzZ Intro | Animation](https://ytcards.demolab.com/?id=kxCJK7Ffvys&title=DiFfrenzZ+Intro+%7C+Animation&lang=en&timestamp=1663144511&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "DiFfrenzZ Intro | Animation")](https://www.youtube.com/watch?v=kxCJK7Ffvys)
 <!-- END YOUTUBE-CARDS -->
 </div>
 
@@ -134,14 +131,15 @@ waka_59d02f10-de0d-4301-9a5a-7c38e756def9
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
- <h3 id="trophies">Github trophies:</h3>
-<div id="trophies" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eskabore" alt="eskabore" /></a> </div>  
+<h3 id="trophies">Github trophies:</h3>
+<div id="trophies" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eskabore" alt="eskabore" /></a>
+</div>  
 
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/eskabore/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/eskabore/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
+<!-- Github & Languages Stats: https://github.com/Eskabore/eskabore --> 
+<!-- Streak Stats: https://github.com/Eskabore/eskabore -->
+
 <div class="stats" align="center" style="display:block;">
 
 ![Jean-Luc KABORE-TURQUIN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eskabore&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
@@ -161,7 +159,7 @@ waka_59d02f10-de0d-4301-9a5a-7c38e756def9
 
 
 
-<div align="center">
+<div align="left">
  
 ![image](https://user-images.githubusercontent.com/45074124/217639774-dc9e5da6-9d6f-49f2-8564-48703908d122.png)
 
@@ -189,12 +187,13 @@ waka_59d02f10-de0d-4301-9a5a-7c38e756def9
 <!-- Begin Footer -->
 <!-- Icons Resources -->
 ➡️ **Follow me on:**
-<p>  
+
+<div class="footer" align="center" style="margin:15px;">
 <a href="https://codepen.io/eskabore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="eskabore" height="30" width="40" /></a>  
 <a href="https://dev.to/eskabore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="eskabore" height="30" width="40" /></a>  
 <a href="https://twitter.com/luc_turquin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luc_turquin" height="30" width="40" /></a>  
 <a href="https://codesandbox.com/eskabore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="eskabore" height="30" width="40" /></a> 
-</p>
-<br></br>
-
+</div>
+<br>
+<br>
 <!-- End Footer -->
