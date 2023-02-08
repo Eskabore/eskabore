@@ -16,7 +16,7 @@ waka_59d02f10-de0d-4301-9a5a-7c38e756def9
 
 
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">
- Certified full-stack developer with expertise in Javascript and its libraries (React.js and Node.js). I have a strong background in sales and am driven by my innate curiosity and love for learning. With a goal to obtain Google Cloud certification by the end of the year and a completion of CS50, I am actively working towards expanding my computer science knowledge through certifications. Fluent in 4 languages, including French, I am committed to becoming a highly-skilled professional in web-development and systems administration.
+ Certified full-stack developer with expertise in Javascript and its libraries (React.js and Node.js). I have a strong background in sales and am driven by my innate curiosity and love for learning. With a goal to obtain Google Cloud certification and a Professional Web-Developer Certificate from HarvardX (Harvard University online) by the end of the year, I am actively working towards expanding my computer science knowledge. Fluent in 4 languages, including French, I am committed to becoming a highly-skilled professional in web-development and systems administration.
  <br>
  <br>
  <div align="center">
