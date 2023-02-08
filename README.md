@@ -167,23 +167,21 @@ waka_59d02f10-de0d-4301-9a5a-7c38e756def9
 
  </div>
  
-<div align="center">
+
   
 <legend>
-2022 private contributions Activity
-<img alt="Last Year Acticity" src="https://wakatime.com/share/@Eskabore/36598f4f-ddca-4324-8dbd-a87c970dc2bf.svg"/>
+2022 private contributions Activity <br>
+<a href="https://wakatime.com/@Eskabore">
+  <img alt="Last Year Acticity" src="https://wakatime.com/share/@Eskabore/36598f4f-ddca-4324-8dbd-a87c970dc2bf.svg"/>
+</a>
 </legend>
-
-</div>
-
-
-
- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31zjlqdgtbfbzigpej5j25o7wr6e&count=3&unique=true)
-
 
 
   
 <!-- Hobbies -->
+
+<h2>🎶 Listening...</h2>
+
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31zjlqdgtbfbzigpej5j25o7wr6e&count=3&unique=true)
  
  ---
