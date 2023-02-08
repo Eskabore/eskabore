@@ -1,25 +1,28 @@
 <!--- Begin First Section -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=1369F7&multiline=true&repeat=false&width=435&lines=Jean-Luc+KABORE-TUQUIN;Full-Stack+Web-Developer)](https://git.io/typing-svg)
+![87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3](https://user-images.githubusercontent.com/45074124/217657823-9c50772d-9fa4-44cb-b142-5fd9fc94b4a5.gif)
 
-<!--- Add a Gif -->
-
+  
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=eskabore&label=Profile%20views&color=0e75b6&style=flat/)
 ![Linkedin Badge](https://img.shields.io/badge/-jeanluc-blue?style=flat-social&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlkabore-turquin/)&nbsp;![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fluc_turquin/)&nbsp;![Youtube Channel Views](https://img.shields.io/youtube/channel/views/UC-PyiQJGXmEENgm0WaQEr2w?style=social)</div>
-
-  
+</div>
 
 
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">
- Certified full-stack developer with expertise in Javascript and its libraries (React.js and Node.js). I have a strong background in sales and am driven by my innate curiosity and love for learning.<br>As an aspiring student of the digital realm, I have set a goal to attain not only Google Cloud certification, but also the prestigious Professional Web-Developer Certificate from HarvardX (Harvest University's online platform) by the close of this calendar year. In my pursuit of excellence, I am constantly striving to broaden my understanding of computer science. Possessing fluency in four languages, including French, I am resolute in my commitment to becoming a seasoned professional in the fields of web development and systems administration.
+ Certified full-stack developer with expertise in Javascript and its libraries (React.js and Node.js). I have a strong background in sales and am driven by my innate curiosity and love for learning. <br> As an aspiring student of the digital realm, I have set a goal to attain not only Google Cloud certification, but also the prestigious Professional Web-Developer Certificate from HarvardX (Harvest University's online platform) by the close of this calendar year. In my pursuit of excellence, I am constantly striving to broaden my understanding of computer science. Possessing fluency in four languages, including French, I am resolute in my commitment to becoming a seasoned professional in the fields of web development and systems administration.
  <br>
- <br>
- <div align="center">
+</p>
+  
 
+
+ 
+ <div align="center">
+   
  [Email Me](mailto:jl.turquin@diffrenzz.com)
  </div>
- </p>
+
  <br>
 
 <!-- Language & Tools -->
