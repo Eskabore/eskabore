@@ -186,13 +186,12 @@ waka_59d02f10-de0d-4301-9a5a-7c38e756def9
  
 <!-- Begin Footer -->
 <!-- Icons Resources -->
-➡️ **Follow me on:**
 
 <div class="footer" align="center" style="margin:15px;">
-<a href="https://codepen.io/eskabore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="eskabore" height="30" width="40" /></a>  
-<a href="https://dev.to/eskabore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="eskabore" height="30" width="40" /></a>  
-<a href="https://twitter.com/luc_turquin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luc_turquin" height="30" width="40" /></a>  
-<a href="https://codesandbox.com/eskabore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="eskabore" height="30" width="40" /></a> 
+<a href="https://codepen.io/eskabore" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="eskabore" height="30" width="40" /></a>  
+<a href="https://dev.to/eskabore" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="eskabore" height="30" width="40" /></a>  
+<a href="https://twitter.com/luc_turquin" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luc_turquin" height="30" width="40" /></a>  
+<a href="https://codesandbox.com/eskabore" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="eskabore" height="30" width="40" /></a> 
 </div>
 <br>
 <br>
