@@ -158,39 +158,30 @@ waka_59d02f10-de0d-4301-9a5a-7c38e756def9
 <!--- End Fourth Section -->
 
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Eskabore/36598f4f-ddca-4324-8dbd-a87c970dc2bf.svg"" /></a>
 
 
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=0017F7&center=true&vCenter=true&repeat=false&width=435&lines=Full-Stack+Web-Developer)](https://git.io/typing-svg)
-
+ 
+![image](https://user-images.githubusercontent.com/45074124/217639774-dc9e5da6-9d6f-49f2-8564-48703908d122.png)
 
  </div>
  
- <img
-  src="https://github.com/Eskabore/eskabore/blob/trunk/images/stat.svg"
-  alt="Alternative Text"
-/>
+<div align="center">
+  
+<legend>
+2022 private contributions Activity
+<img alt="Last Year Acticity" src="https://wakatime.com/share/@Eskabore/36598f4f-ddca-4324-8dbd-a87c970dc2bf.svg"/>
+</legend>
 
-<img
- src="https://wakatime.com/share/@Eskabore/36598f4f-ddca-4324-8dbd-a87c970dc2bf.svg"
- />
+</div>
+ 
+<div align="left">
 
-
-<div class="stats" align="justify">
-
-
-<h3 align="left">Currently coding with:</h3>
-
-<img id="lang-stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eskabore&layout=compact&langs_count=10&bg_color=00000000" >
-
-
-
-<h3 align="right">Github' stats overview (2021)</h3>
-
-<img id="lang-stats" src="https://github-readme-stats.vercel.app/api?username=Eskabore&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Eskabore's+Stats">
+<legend>
+2022 private contributions Activity
+<img alt="Last Year Acticity" src="https://wakatime.com/share/@Eskabore/36598f4f-ddca-4324-8dbd-a87c970dc2bf.svg"/>
+</legend>
 
 </div>
 
@@ -238,6 +229,7 @@ waka_59d02f10-de0d-4301-9a5a-7c38e756def9
 </div>
 
 </div>
+
 
 
   
