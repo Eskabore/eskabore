@@ -12,7 +12,7 @@
 
 
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">
- Certified full-stack developer with expertise in Javascript and its libraries (React.js and Node.js). I have a strong background in sales and am driven by my innate curiosity and love for learning. With a goal to obtain Google Cloud certification and a Professional Web-Developer Certificate from HarvardX (Harvard University online) by the end of the year, I am actively working towards expanding my computer science knowledge. Fluent in 4 languages, including French, I am committed to becoming a highly-skilled professional in web-development and systems administration.
+ Certified full-stack developer with expertise in Javascript and its libraries (React.js and Node.js). I have a strong background in sales and am driven by my innate curiosity and love for learning.<br>As an aspiring student of the digital realm, I have set a goal to attain not only Google Cloud certification, but also the prestigious Professional Web-Developer Certificate from HarvardX (Harvest University's online platform) by the close of this calendar year. In my pursuit of excellence, I am constantly striving to broaden my understanding of computer science. Possessing fluency in four languages, including French, I am resolute in my commitment to becoming a seasoned professional in the fields of web development and systems administration.
  <br>
  <br>
  <div align="center">
@@ -99,8 +99,8 @@
 <div class="youtube videos cards" align="center">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![CS50 2023 Final Project](https://ytcards.demolab.com/?id=gTvI4iPJbEg&title=CS50+2023+Final+Project&lang=en&timestamp=864000background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "CS50 Final Project 2023 - Number Converter")](https://www.youtube.com/watch?v=gTvI4iPJbEg)
-[![CS50P Indoor Voice | Python](https://ytcards.demolab.com/?id=nYInu6_l2Sk&title=CS50+Indoor+Voice+%7C+Python&lang=en&timestamp=777600&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "CS50P - Indoor Voice with Python")](https://www.youtube.com/watch?v=nYInu6_l2Sk)
+[![CS50 2023 Final Project](https://ytcards.demolab.com/?id=gTvI4iPJbEg&title=CS50+2023+Final+Project&lang=en&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "CS50 Final Project 2023 - Number Converter")](https://www.youtube.com/watch?v=gTvI4iPJbEg)
+[![CS50P Indoor Voice | Python](https://ytcards.demolab.com/?id=nYInu6_l2Sk&title=CS50+Indoor+Voice+%7C+Python&lang=en&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "CS50P - Indoor Voice with Python")](https://www.youtube.com/watch?v=nYInu6_l2Sk)
 [![DiFfrenzZ Logo | Animation](https://ytcards.demolab.com/?id=35j3drHLczY&title=DiFfrenzZ+Logo+%7C+Animation&lang=en&timestamp=1664182702&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "DiFfrenzZ Logo | Animation")](https://www.youtube.com/watch?v=35j3drHLczY)
 [![DiFfrenzZ Intro | Animation](https://ytcards.demolab.com/?id=kxCJK7Ffvys&title=DiFfrenzZ+Intro+%7C+Animation&lang=en&timestamp=1663144511&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "DiFfrenzZ Intro | Animation")](https://www.youtube.com/watch?v=kxCJK7Ffvys)
 <!-- END YOUTUBE-CARDS -->
