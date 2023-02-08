@@ -170,7 +170,7 @@ waka_59d02f10-de0d-4301-9a5a-7c38e756def9
 
   
 <legend>
-2022 private contributions Activity <br>
+1,022 private contributions in the last year <br>
 <a href="https://wakatime.com/@Eskabore">
   <img alt="Last Year Acticity" src="https://wakatime.com/share/@Eskabore/36598f4f-ddca-4324-8dbd-a87c970dc2bf.svg"/>
 </a>
@@ -185,5 +185,16 @@ waka_59d02f10-de0d-4301-9a5a-7c38e756def9
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31zjlqdgtbfbzigpej5j25o7wr6e&count=3&unique=true)
  
  ---
+ 
 <!-- Begin Footer -->
 <!-- Icons Resources -->
+\- ➡️ **Follow me on:**
+<p>  
+<a href="https://codepen.io/eskabore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="eskabore" height="30" width="40" /></a>  
+<a href="https://dev.to/eskabore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="eskabore" height="30" width="40" /></a>  
+<a href="https://twitter.com/luc\_turquin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luc\_turquin" height="30" width="40" /></a>  
+<a href="https://codesandbox.com/eskabore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="eskabore" height="30" width="40" /></a> 
+</p>
+<br></br>
+
+<!-- End Footer -->
