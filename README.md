@@ -103,7 +103,8 @@ waka_59d02f10-de0d-4301-9a5a-7c38e756def9
 
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![CS50 2023 Final Project](https://ytcards.demolab.com/?id=eMc5ofklYHQ&title=CS50+2023+Final+Project&lang=en&timestamp=1668845475&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "CS50 Final Project 2023 - Number Converter")](https://www.youtube.com/watch?v=gTvI4iPJbEg)
+[![CS50 2023 Final Project](https://ytcards.demolab.com/?id=gTvI4iPJbEg&title=CS50+2023+Final+Project&lang=en&timestamp=1668845475&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "CS50 Final Project 2023 - Number Converter")](https://www.youtube.com/watch?v=gTvI4iPJbEg)
+
 [![Outstanding GitHub Profile README Portfolio | 2 Ways in 4 Minutes!](https://ytcards.demolab.com/?id=jjilbKTNwLk&title=Outstanding+GitHub+Profile+README+Portfolio+%7C+2+Ways+in+4+Minutes%21&lang=en&timestamp=1665237440&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Outstanding GitHub Profile README Portfolio | 2 Ways in 4 Minutes!")](https://www.youtube.com/watch?v=jjilbKTNwLk)
 [![Scratch Functions | My Blocks](https://ytcards.demolab.com/?id=FqAvlmvfo7k&title=Scratch+Functions+%7C+My+Blocks&lang=en&timestamp=1664182702&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Scratch Functions | My Blocks")](https://www.youtube.com/watch?v=FqAvlmvfo7k)
 [![AI Car Racing Game In Scratch](https://ytcards.demolab.com/?id=4DIV3K7pOek&title=AI+Car+Racing+Game+In+Scratch&lang=en&timestamp=1663144511&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "AI Car Racing Game In Scratch")](https://www.youtube.com/watch?v=4DIV3K7pOek)
@@ -138,32 +139,26 @@ waka_59d02f10-de0d-4301-9a5a-7c38e756def9
 
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
+<!-- Github & Languages Stats: https://github.com/eskabore/github-readme-stats --> 
+<!-- Streak Stats: https://github.com/eskabore/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
-<div class="stats" align="center">
+<div class="stats" align="center" style="display:block;">
 
-![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProgrammingGym&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Jean-Luc KABORE-TURQUIN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eskabore&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ProgrammingGym&count_private=false&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=Eskabore&count_private=false&theme=algolia&border_radius=20)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingGym&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eskabore&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+
 </div>
-<!--  End Stats Cards -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eskabore&theme=highcontrast&hide_border=true&stroke=EB5454)](https://git.io/streak-stats)
 
-<!--- End Third Section -->
+<!--  End Stats Cards -->
+
 <!--- Begin Fourth Section -->
 <!--- End Fourth Section -->
 
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Eskabore/a0894029-0d93-4889-b28f-242d1e771b55.png" /></a>
-
-<img
-  src="https://github.com/Eskabore/eskabore/blob/main/images/stat.svg"
-  alt="Alternative Text"
-/>
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Eskabore/36598f4f-ddca-4324-8dbd-a87c970dc2bf.svg"" /></a>
 
 
 
@@ -171,10 +166,17 @@ waka_59d02f10-de0d-4301-9a5a-7c38e756def9
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=0017F7&center=true&vCenter=true&repeat=false&width=435&lines=Full-Stack+Web-Developer)](https://git.io/typing-svg)
 
- 
+
  </div>
+ 
+ <img
+  src="https://github.com/Eskabore/eskabore/blob/trunk/images/stat.svg"
+  alt="Alternative Text"
+/>
 
-
+<img
+ src="https://wakatime.com/share/@Eskabore/36598f4f-ddca-4324-8dbd-a87c970dc2bf.svg"
+ />
 
 
 <div class="stats" align="justify">
@@ -237,9 +239,7 @@ waka_59d02f10-de0d-4301-9a5a-7c38e756def9
 
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eskabore&theme=highcontrast&hide_border=true&stroke=EB5454)](https://git.io/streak-stats)
 
-<a href="https://wakatime.com"><img src=src="https://wakatime.com/share/@Eskabore/b2aab12e-2a41-4697-b206-35ff12adf245.svg" /></a>
   
 <!-- Hobbies -->
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31zjlqdgtbfbzigpej5j25o7wr6e&count=3&unique=true)
