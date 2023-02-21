@@ -1,6 +1,6 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
-- name: generate-snake-game-from-github-contribution-grid
+name: Generate Snake
 
 # Controls when the action will run. This action runs every 6 hours.
 
@@ -8,7 +8,7 @@ on:
   schedule:
       # every 6 hours
     - cron: "0 */6 * * *"
-    
+
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
 
@@ -24,24 +24,21 @@ jobs:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
-    
-  # You may pin to the exact commit or the version.
-  # uses: Platane/snk@1526ced25e3c39ff3d41af01a6f9981b046b6744
-  - uses: Platane/snk@v1.1.4
-    id: snake-gif
-    with:
-      # github username
-      github_user_name: eskabore
-      # path of the generated gif file. If left empty, the gif file will not be generated.
-      gif_out_path: dist/github-contribution-grid-snake.gif
-      # path of the generated svg file. If left empty, the svg file will not be generated.
-      svg_out_path: dist/github-contribution-grid-snake.svg
-    
-   # show the status of the build. Makes it easier for debugging (if there's any issues).
-    - run: git status
 
-    # Push the changes
-    - name: Push changes
+    # Generates the snake  
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: Eskabore
+          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+     # show the status of the build. Makes it easier for debugging (if there's any issues).
+      - run: git status
+
+      # Push the changes
+      - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
