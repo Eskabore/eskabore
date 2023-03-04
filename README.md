@@ -125,14 +125,11 @@
 <!--- End First Section -->
 
 
-<!--- Statistics -->
+<!--- Statistics Section-->
 <h2>📊 Statistics</h2>
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
-<h3 id="trophies">Github trophies:</h3>
-<div id="trophies" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eskabore" alt="eskabore" /></a>
-</div>  
 
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
@@ -141,31 +138,27 @@
 
 <div class="stats" align="center" style="display:block;">
 
-![Jean-Luc KABORE-TURQUIN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eskabore&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Jean-Luc KABORE-TURQUIN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eskabore&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=50)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Eskabore&count_private=false&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=Eskabore&count_private=false&theme=algolia&border_radius=50)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eskabore&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eskabore&layout=compact&show_icons=true&theme=algolia&border_radius=50)
 
 </div>
 
 <!--  End Stats Cards -->
 
-<!--- Begin Fourth Section -->
-<!--- End Fourth Section -->
+
+<!--- Begin Stats/Github trophies Section -->
+<h3 id="trophies">Github trophies:</h3>
+<div id="trophies" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eskabore" alt="eskabore" /></a>
+</div>  
+<!--- End Stats/Github trophies Section -->
 
 
-
-
-
-<div align="left">
- 
-![image](https://user-images.githubusercontent.com/45074124/217639774-dc9e5da6-9d6f-49f2-8564-48703908d122.png)
-
- </div>
  
 
-  
+ 
 <legend>
 1,022 private contributions in the last year <br>
 <a href="https://wakatime.com/@Eskabore">
@@ -173,7 +166,7 @@
 </a>
 </legend>
 
-
+<!-- End Statistics Section-->
   
 <!-- Hobbies -->
 
