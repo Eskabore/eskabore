@@ -160,7 +160,7 @@
 
  
 <legend>
-1,022 private contributions in the last year <br>
+Wakatime activity on VSCode last year <br>
 <a href="https://wakatime.com/@Eskabore">
   <img alt="Last Year Acticity" src="https://wakatime.com/share/@Eskabore/36598f4f-ddca-4324-8dbd-a87c970dc2bf.svg"/>
 </a>
