@@ -1,11 +1,20 @@
 <!--- Begin First Section -->
   <!--- Begin Typing on Entrance Section -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=1369F7&multiline=true&repeat=false&width=435&lines=Jean-Luc+KABORE-TUQUIN;Full-Stack+Web-Developer)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Jean-Luc+KABORE-TUQUIN;Full-Stack+Web-Developer&center=true&width=500&height=80"></a>
+</div>
   <!--- End Typing on Entrance Section -->
   <!--- Begin GIF Section -->
-  <img src="https://user-images.githubusercontent.com/45074124/217657823-9c50772d-9fa4-44cb-b142-5fd9fc94b4a5.gif" width="100px" height="auto">
+  <div align="center">
+  <img src="https://user-images.githubusercontent.com/45074124/217657823-9c50772d-9fa4-44cb-b142-5fd9fc94b4a5.gif" alt="coding GIF" width="200px" height="auto">
+  </div>
   <!--- End GIF Section -->
   
+  <!--- Begin Contact Information Section -->
+<div align="center">
+  <a href="mailto:jl.turquin@diffrenzz.com">Email Me</a>
+</div>
+<!--- End Contact Information Section -->
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=eskabore&label=Profile%20views&color=0e75b6&style=flat/)
@@ -13,6 +22,8 @@
   
 </div>
 
+<!--- Begin About Me Section -->
+<h2 align="center">About Me</h2>
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">
 Certified Full-Stack Developer with a B.A. in Management and experience in Sales and Salesforce Administration, I offer a unique combination of technical know-how and business insight.
 
@@ -23,17 +34,9 @@ As a Salesforce expert, I have a wealth of experience in customizing the console
 Committed to both personal and professional growth, I am always open to giving and receiving feedback. I maintain an avid interest in the latest tech advancements and actively participate in events like Google Developers Group Berlin, where I learn from industry leaders.
 
 This year, my goal is to acquire cloud and Salesforce certifications to further enhance my skill set and increase my value to clients.
- <br>
 </p>
-  
+ <!--- End About Me Section -->
  
- <div align="center">
-   
- [Email Me](mailto:jl.turquin@diffrenzz.com)
- </div>
-
- <br>
-
 <!-- Language & Tools -->
 <h2 style="color: #44AEFB">⚙️ Skill Set</h2>
 
