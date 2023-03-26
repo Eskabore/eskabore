@@ -1,6 +1,6 @@
 <!--- Begin First Section -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=1369F7&multiline=true&repeat=false&width=435&lines=Jean-Luc+KABORE-TUQUIN;Full-Stack+Web-Developer)](https://git.io/typing-svg)
-![87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3](https://user-images.githubusercontent.com/45074124/217657823-9c50772d-9fa4-44cb-b142-5fd9fc94b4a5.gif)
+<img src="https://user-images.githubusercontent.com/45074124/217657823-9c50772d-9fa4-44cb-b142-5fd9fc94b4a5.gif" width="100px" height="auto">
 
   
 <div align="center">
@@ -128,7 +128,7 @@
 <!--- Statistics Section-->
 <h2>📊 Statistics</h2>
 
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+<img src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif" alt="stats banner" width="100%" height="200px">
 
 
 <!-- Begin Stats Cards -->
@@ -138,22 +138,27 @@
 
 <div class="stats" align="center" style="display:block;">
 
+  <details><summary><h3>Github Stats</h3></summary>
+   
 ![Jean-Luc KABORE-TURQUIN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eskabore&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=50)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Eskabore&count_private=false&theme=algolia&border_radius=50)
+   
+ </details>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eskabore&layout=compact&show_icons=true&theme=algolia&border_radius=50)
-
+  <details><summary><h3>Most used Languages</h3></summary>
+<img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eskabore&layout=compact&show_icons=true&theme=algolia&border_radius=50">
+</details>
+  
+<!--- Begin Stats/Github trophies Section -->
+<details><summary><h3 id="trophies">Github trophies:</h3></summary>
+<div id="trophies" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eskabore" alt="eskabore" /></a>
+</div>  
+</details>
+<!--- End Stats/Github trophies Section -->
+  
 </div>
 
 <!--  End Stats Cards -->
-
-
-<!--- Begin Stats/Github trophies Section -->
-<h3 id="trophies">Github trophies:</h3>
-<div id="trophies" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eskabore" alt="eskabore" /></a>
-</div>  
-<!--- End Stats/Github trophies Section -->
 
 
  
