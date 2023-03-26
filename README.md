@@ -1,22 +1,31 @@
 <!--- Begin First Section -->
+  <!--- Begin Typing on Entrance Section -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=1369F7&multiline=true&repeat=false&width=435&lines=Jean-Luc+KABORE-TUQUIN;Full-Stack+Web-Developer)](https://git.io/typing-svg)
-<img src="https://user-images.githubusercontent.com/45074124/217657823-9c50772d-9fa4-44cb-b142-5fd9fc94b4a5.gif" width="100px" height="auto">
-
+  <!--- End Typing on Entrance Section -->
+  <!--- Begin GIF Section -->
+  <img src="https://user-images.githubusercontent.com/45074124/217657823-9c50772d-9fa4-44cb-b142-5fd9fc94b4a5.gif" width="100px" height="auto">
+  <!--- End GIF Section -->
   
 <div align="center">
-
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=eskabore&label=Profile%20views&color=0e75b6&style=flat/)
-![Linkedin Badge](https://img.shields.io/badge/-jeanluc-blue?style=flat-social&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlkabore-turquin/)&nbsp;![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fluc_turquin/)&nbsp;![Youtube Channel Views](https://img.shields.io/youtube/channel/views/UC-PyiQJGXmEENgm0WaQEr2w?style=social)</div>
+![Linkedin Badge](https://img.shields.io/badge/-jeanluc-blue?style=flat-social&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlkabore-turquin/)&nbsp;![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fluc_turquin/)&nbsp;![Youtube Channel Views](https://img.shields.io/youtube/channel/views/UC-PyiQJGXmEENgm0WaQEr2w?style=social)
+  
 </div>
 
-
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">
- Certified full-stack developer with expertise in Javascript and its libraries (React.js and Node.js). I have a strong background in sales and am driven by my innate curiosity and love for learning. <br> As an aspiring student of the digital realm, I have set a goal to attain not only Google Cloud certification, but also the prestigious Professional Web-Developer Certificate from HarvardX (Harvest University's online platform) by the close of this calendar year. In my pursuit of excellence, I am constantly striving to broaden my understanding of computer science. Possessing fluency in four languages, including French, I am resolute in my commitment to becoming a seasoned professional in the fields of web development and systems administration.
+Certified Full-Stack Developer with a B.A. in Management and experience in Sales and Salesforce Administration, I offer a unique combination of technical know-how and business insight.
+
+My skill set includes proficiency in Node.js and React.js, experience with RESTful APIs, familiarity with modern authorization mechanisms like JSON Web Tokens, and a strong foundation in relational databases/SQL and Git. I excel at grasping business needs and converting them into technical requirements.
+
+As a Salesforce expert, I have a wealth of experience in customizing the console and seamlessly integrating Salesforce with other systems across various projects. My specialty lies in tailoring Sales Cloud and Service Cloud to address client-specific requirements, as well as providing training and support to end-users.
+
+Committed to both personal and professional growth, I am always open to giving and receiving feedback. I maintain an avid interest in the latest tech advancements and actively participate in events like Google Developers Group Berlin, where I learn from industry leaders.
+
+This year, my goal is to acquire cloud and Salesforce certifications to further enhance my skill set and increase my value to clients.
  <br>
 </p>
   
-
-
  
  <div align="center">
    
