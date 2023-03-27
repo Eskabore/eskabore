@@ -1,7 +1,7 @@
 <!--- Begin First Section -->
   <!--- Begin Typing on Entrance Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Jean-Luc+KABORE-TUQUIN;Full-Stack+Developer&center=true&width=500&height=80"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Jean-Luc+KABORE-TURQUIN;Full-Stack+Developer&center=true&width=500&height=80"></a>
 </div>
   <!--- End Typing on Entrance Section -->
   <!--- Begin GIF Section -->
@@ -41,7 +41,7 @@ This year, my goal is to acquire cloud and Salesforce certifications to further 
  <!-- Begin Education Section -->
  <h2 align="center">🏫 Education</h2>
  
- - B.A in Business Administration from [Athabasca University](https://www.athabascau.ca/) (Thesis: "The Impact of Digital Transformation on Business Operations and Strategies: An Analysis of its Significance on Performance and Implementation")
+ - B.A in Management from [Athabasca University](https://www.athabascau.ca/) (Thesis: "The Impact of Digital Transformation on Business Operations and Strategies: An Analysis of its Significance on Performance and Implementation")
 - D.E.C Art et Lettres - Langues from [CEGEP du Vieux Montréal](https://www.cvm.qc.ca/)
 - Certification Full-Stack Developer from [SPICED Academy](https://www.spiced-academy.com/)
 - Certification CS50x (Introducction to Computer Scienvce) from [Harvard University online via edX](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
