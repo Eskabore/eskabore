@@ -1,12 +1,12 @@
 <!--- Begin First Section -->
   <!--- Begin Typing on Entrance Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Jean-Luc+KABORE-TUQUIN;Full-Stack+Web-Developer&center=true&width=500&height=80"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Jean-Luc+KABORE-TUQUIN;Full-Stack+Developer&center=true&width=500&height=80"></a>
 </div>
   <!--- End Typing on Entrance Section -->
   <!--- Begin GIF Section -->
   <div align="center">
-  <img src="https://user-images.githubusercontent.com/45074124/217657823-9c50772d-9fa4-44cb-b142-5fd9fc94b4a5.gif" alt="coding GIF" width="200px" height="auto">
+  <img src="https://user-images.githubusercontent.com/45074124/217657823-9c50772d-9fa4-44cb-b142-5fd9fc94b4a5.gif" alt="coding GIF" width="150px" height="auto">
   </div>
   <!--- End GIF Section -->
   
@@ -14,6 +14,7 @@
 <div align="center">
   <a href="mailto:jl.turquin@diffrenzz.com">Email Me</a>
 </div>
+<br>
 <!--- End Contact Information Section -->
 <div align="center">
   
@@ -37,78 +38,43 @@ This year, my goal is to acquire cloud and Salesforce certifications to further 
 </p>
  <!--- End About Me Section -->
  
-<!-- Language & Tools -->
-<h2 style="color: #44AEFB">⚙️ Skill Set</h2>
+<!--- Begin Skills Section -->
+<h2 align="center">⚙️ Skill Set</h2>
 
-<div align="center" style="display:block;">
-    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
-</div>
-<br> 
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-      <img  alt="Sass" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  </a>
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-      <img  alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  </a>    
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="GoogleCloud" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img  alt="MongoDB" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
-      <img  alt="SQLite" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-      <img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-      <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
-  </a>
+    <img alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png" width="80" height="auto"> 
 </div>
-<br>
-<br>
+<div align="center">
+  <details><summary><h3>Front-end Development</h3></summary>
+    <img alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50px">
+    <img alt="ReactJS" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="50px">
+    <img alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="50px">
+    <img alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="50px">
+    <img alt="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="50px">
+    <img alt="Sass" src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" height="50px">
+  </details>
+  <details><summary><h3>Back-end Development</h3></summary>
+    <img alt="NodeJS" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="50px">
+    <img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="50px">
+    <!-- <img alt="Java" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="50px"> -->
+    <img alt="Firebase" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" height="50px">
+  </details>
+  <details><summary><h3>Tools & Technologies</h3></summary>
+    <img alt="Git" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="50px">
+    <img alt="MongoDB" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" height="50px">
+    <img alt="SQLite" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" height="50px">
+    <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+    <img  alt="GoogleCloud" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+    <img  alt="AWS" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
+    <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+    </details>
+</div>
+
 
 <!-- Latest Youtube Videos -->
 <h2 style="color: #44AEFB">🎦 Latest YouTube Videos</h2>
-<br />
+<br/>
 
 <!-- Resource/Reference: https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <div class="youtube videos cards" align="center">
@@ -173,15 +139,7 @@ This year, my goal is to acquire cloud and Salesforce certifications to further 
 <!--  End Stats Cards -->
 
 
- 
 
- 
-<legend>
-Wakatime activity on VSCode last year <br>
-<a href="https://wakatime.com/@Eskabore">
-  <img alt="Last Year Acticity" src="https://wakatime.com/share/@Eskabore/36598f4f-ddca-4324-8dbd-a87c970dc2bf.svg"/>
-</a>
-</legend>
 
 <!-- End Statistics Section-->
   
@@ -209,3 +167,25 @@ Wakatime activity on VSCode last year <br>
 <br>
 <br>
 <!-- End Footer -->
+  
+  
+  <!-- <details><summary><h3>Front-end Development</h3></summary>
+      <img  alt="JavaScript" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+      <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  </details>
+      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+      <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+      <img  alt="Sass" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+      <img  alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+      <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+      <img  alt="firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+      <img  alt="GoogleCloud" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> 
+      <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+      <img  alt="MongoDB" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+      <img  alt="SQLite" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
+      <img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
+      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+      <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"> -->
