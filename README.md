@@ -1,3 +1,6 @@
+![status](https://user-images.githubusercontent.com/45074124/232253194-09db51e7-3036-47a5-bbf0-c04e8784ccc7.svg)
+![dnd](https://user-images.githubusercontent.com/45074124/232253224-0fe9de83-bef7-431b-9b19-8d5eb455ab5f.svg)
+
 <!--- Begin First Section -->
   <!--- Begin Typing on Entrance Section -->
 <div align="center">
