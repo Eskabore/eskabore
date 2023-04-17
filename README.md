@@ -117,18 +117,20 @@ This year, my goal is to acquire cloud and Salesforce certifications to further 
 <h2>📊 Statistics</h2>
   
 <!--START_SECTION:waka-->
-<img
-  src="https://github.com/Eskabore/eskabore/blob/master/images/stat.svg"
-  alt="Jean-Luc Wakatime Activity"
-/>
 
-<div align="center">
-<details><summary><h3>Wakatime Stats</h3></summary>
-  
-<img src="https://wakatime.com/share/@Eskabore/24586003-ad95-407f-9cd7-4eaf3592618e.svg" width="80%" height="auto"/>
+```text
+From: 17 March 2023 - To: 16 April 2023
 
-  </details>
- </div>
+Total Time: 41 hrs 30 mins
+
+TypeScript   25 hrs 39 mins  ███████████████▒░░░░░░░░░   60.92 %
+Python       8 hrs 46 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
+JavaScript   4 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+JSON         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Markdown     51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Other        36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+```
+
 <!--END_SECTION:waka-->
 
 
