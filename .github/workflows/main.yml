@@ -12,14 +12,14 @@ jobs:
     steps:
       # Do not change the line below until you have forked this repository
       # If you have forked this project you can use <username>/Profile-Readme-WakaTime@master instead
-      - uses: Eskabore/eskabore@trunk
+      - uses: avinal/Profile-Readme-WakaTime@master
         with:
           # WakaTime API key stored in secrets, do not directly paste it here
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # Automatic github token
-          GITHUB_TOKEN: ${{ github.token }}
-          BRANCH: "trunk"
+          # GITHUB_TOKEN: ${{ github.token }}
+          BRANCH: "master"
           # Manual Commit messages - write your own messages here
-          COMMIT_MSG: "Automated Coding Activity Update :alien:"
+          COMMIT_MSG: "Automated Coding Activity Update :warning:"
           # Range of fetching data - default is "last_7_days". See https://wakatime.com/developers#stats for more options
-          STATS_RANGE: "last_7_days"
+          STATS_RANGE: "last_30_days"
