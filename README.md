@@ -1,4 +1,9 @@
+github-contribution-grid-snake.svg
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/45074124/232567242-e5b9d22e-a35f-4a7a-8546-49aedf85470d.gif)
+
 <!--- Begin First Section -->
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/45074124/232567318-a5aa22be-0cf3-4e36-af73-26b8572c57b8.svg)
+
   <!--- Begin Typing on Entrance Section -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Jean-Luc+KABORE-TURQUIN;Full-Stack+Developer&center=true&width=500&height=80"></a>
