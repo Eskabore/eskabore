@@ -1,5 +1,3 @@
-
-
 <!--- Begin First Section -->
   <!--- Begin Typing on Entrance Section -->
 <div align="center">
@@ -117,7 +115,8 @@ This year, my goal is to acquire cloud and Salesforce certifications to further 
 <!--- Statistics Section-->
 <h2>📊 Statistics</h2>
 
-<img src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif" alt="stats banner" width="100%" height="200px">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <!-- Begin Stats Cards -->
