@@ -1,36 +1,52 @@
-github-contribution-grid-snake.svg
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/45074124/232567242-e5b9d22e-a35f-4a7a-8546-49aedf85470d.gif)
-
-<!--- Begin First Section -->
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/45074124/232567318-a5aa22be-0cf3-4e36-af73-26b8572c57b8.svg)
-
   <!--- Begin Typing on Entrance Section -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Jean-Luc+KABORE-TURQUIN;Full-Stack+Developer&center=true&width=500&height=80"></a>
-</div>
-  <!--- End Typing on Entrance Section -->
-  <!--- Begin GIF Section -->
-  <div align="center">
-  <img src="https://user-images.githubusercontent.com/45074124/217657823-9c50772d-9fa4-44cb-b142-5fd9fc94b4a5.gif" alt="coding GIF" width="150px" height="auto">
-  </div>
-  <!--- End GIF Section -->
   
-  <!--- Begin Contact Information Section -->
+<div align="center">
+ <a href="https://jl-turquin.com"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=4000&pause=1000&color=BB1F3BBB&center=true&vCenter=true&width=435&lines=Jean-Luc+KABORE-TURQUIN;Fullstack+Developer;SALESFORCE+Consultant" alt="Typing SVG" /></a>
+</div>
+
+  <!--- End Typing on Entrance Section -->
+
+<!--START_SECTION:waka-->
+
+```text
+From: 17 March 2023 - To: 16 April 2023
+
+Total Time: 41 hrs 30 mins
+
+TypeScript   25 hrs 39 mins  ███████████████▒░░░░░░░░░   60.92 %
+Python       8 hrs 46 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
+JavaScript   4 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+JSON         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Markdown     51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Other        36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+```
+
+<!--END_SECTION:waka-->
+
+<!--- Begin Intro Section -->
+
+<!--- Begin Contact Information Section -->
+  
 <div align="center">
   <a href="mailto:jl.turquin@diffrenzz.com">Email Me</a>
 </div>
 <br>
 <!--- End Contact Information Section -->
+  <!-- Begin Badges Section -->
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=eskabore&label=Profile%20views&color=0e75b6&style=flat/)
 ![Linkedin Badge](https://img.shields.io/badge/-jeanluc-blue?style=flat-social&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlkabore-turquin/)&nbsp;![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fluc_turquin/)&nbsp;![Youtube Channel Views](https://img.shields.io/youtube/channel/views/UC-PyiQJGXmEENgm0WaQEr2w?style=social)
   
 </div>
+  
+  <!-- End Badges Section -->
+<!-- End Intro Section -->
 
 <!--- Begin About Me Section -->
 <h2 align="center">About Me</h2>
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">
+  
 Certified Full-Stack Developer with a B.A. in Management and experience in Sales and Salesforce Administration, I offer a unique combination of technical know-how and business insight.
 
 My skill set includes proficiency in Node.js and React.js, experience with RESTful APIs, familiarity with modern authorization mechanisms like JSON Web Tokens, and a strong foundation in relational databases/SQL and Git. I excel at grasping business needs and converting them into technical requirements.
@@ -120,24 +136,15 @@ This year, my goal is to acquire cloud and Salesforce certifications to further 
 
 <!--- Statistics Section-->
 <h2>📊 Statistics</h2>
+ <!--- Begin Snake GIF Section -->
+
+<div align="center">
   
-<!--START_SECTION:waka-->
+<img src="https://user-images.githubusercontent.com/45074124/232567318-a5aa22be-0cf3-4e36-af73-26b8572c57b8.svg" />
+  
+</div>
 
-```text
-From: 17 March 2023 - To: 16 April 2023
-
-Total Time: 41 hrs 30 mins
-
-TypeScript   25 hrs 39 mins  ███████████████▒░░░░░░░░░   60.92 %
-Python       8 hrs 46 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
-JavaScript   4 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-JSON         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-Markdown     51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Other        36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-```
-
-<!--END_SECTION:waka-->
-
+<!-- End Snake GIF Section -->
 
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
