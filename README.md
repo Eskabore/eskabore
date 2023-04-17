@@ -115,8 +115,13 @@ This year, my goal is to acquire cloud and Salesforce certifications to further 
 
 <!--- Statistics Section-->
 <h2>📊 Statistics</h2>
-
+  
 <!--START_SECTION:waka-->
+<details><summary><h3>Github Stats</h3></summary>
+  
+<img src="https://wakatime.com/share/@Eskabore/24586003-ad95-407f-9cd7-4eaf3592618e.svg" width="80%" height="auto"/>
+
+  </details>
 <!--END_SECTION:waka-->
 
 
@@ -134,7 +139,7 @@ This year, my goal is to acquire cloud and Salesforce certifications to further 
    
  </details>
 
-  <details><summary><h3>Most used Languages</h3></summary>
+  <details><summary><h3>Most used Languages (current public repositories)</h3></summary>
 <img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eskabore&layout=compact&show_icons=true&theme=algolia&border_radius=50">
 </details>
   
