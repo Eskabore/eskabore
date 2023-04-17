@@ -8,7 +8,11 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    # Allow the job to commit to the repository
+    permissions:
+      contents: write
+    # Run the GitHub Readme YouTube Cards action
     steps:
-      - uses: Eskabore/eskabore/trunk
+      - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UC-PyiQJGXmEENgm0WaQEr2w
