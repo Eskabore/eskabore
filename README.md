@@ -89,10 +89,11 @@ This year, my goal is to acquire cloud and Salesforce certifications to further 
 <div class="youtube videos cards" align="center">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![CS50 2023 Final Project](https://ytcards.demolab.com/?id=gTvI4iPJbEg&title=CS50+2023+Final+Project&lang=en&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "CS50 Final Project 2023 - Number Converter")](https://www.youtube.com/watch?v=gTvI4iPJbEg)
-[![CS50P Indoor Voice | Python](https://ytcards.demolab.com/?id=nYInu6_l2Sk&title=CS50+Indoor+Voice+%7C+Python&lang=en&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "CS50P - Indoor Voice with Python")](https://www.youtube.com/watch?v=nYInu6_l2Sk)
-[![DiFfrenzZ Logo | Animation](https://ytcards.demolab.com/?id=35j3drHLczY&title=DiFfrenzZ+Logo+%7C+Animation&lang=en&timestamp=1664182702&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "DiFfrenzZ Logo | Animation")](https://www.youtube.com/watch?v=35j3drHLczY)
-[![DiFfrenzZ Intro | Animation](https://ytcards.demolab.com/?id=kxCJK7Ffvys&title=DiFfrenzZ+Intro+%7C+Animation&lang=en&timestamp=1663144511&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "DiFfrenzZ Intro | Animation")](https://www.youtube.com/watch?v=kxCJK7Ffvys)
+[![CS50P - Indoor Voice](https://ytcards.demolab.com/?id=nYInu6_l2Sk&title=CS50P+-+Indoor+Voice&lang=en&timestamp=1675107111&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CS50P - Indoor Voice")](https://www.youtube.com/watch?v=nYInu6_l2Sk)
+[![CS50 Final Project 2023 - Number Converter](https://ytcards.demolab.com/?id=gTvI4iPJbEg&title=CS50+Final+Project+2023+-+Number+Converter&lang=en&timestamp=1674860744&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CS50 Final Project 2023 - Number Converter")](https://www.youtube.com/watch?v=gTvI4iPJbEg)
+[![output free](https://ytcards.demolab.com/?id=35j3drHLczY&title=output+free&lang=en&timestamp=1600975149&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "output free")](https://www.youtube.com/watch?v=35j3drHLczY)
+[![DiFfrenzZ -  Animation](https://ytcards.demolab.com/?id=kxCJK7Ffvys&title=DiFfrenzZ+-++Animation&lang=en&timestamp=1600975096&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "DiFfrenzZ -  Animation")](https://www.youtube.com/watch?v=kxCJK7Ffvys)
+[![Let's Group](https://ytcards.demolab.com/?id=Ui8vzTeH4H4&title=Let%27s+Group&lang=en&timestamp=1600974743&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Let's Group")](https://www.youtube.com/watch?v=Ui8vzTeH4H4)
 <!-- END YOUTUBE-CARDS -->
 </div>
 
