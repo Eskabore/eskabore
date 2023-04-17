@@ -116,7 +116,6 @@ This year, my goal is to acquire cloud and Salesforce certifications to further 
 <h2>📊 Statistics</h2>
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 
