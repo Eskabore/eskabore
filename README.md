@@ -117,11 +117,18 @@ This year, my goal is to acquire cloud and Salesforce certifications to further 
 <h2>📊 Statistics</h2>
   
 <!--START_SECTION:waka-->
-<details><summary><h3>Github Stats</h3></summary>
+<img
+  src="https://github.com/Eskabore/eskabore/blob/master/images/stat.svg"
+  alt="Jean-Luc Wakatime Activity"
+/>
+
+<div align="center">
+<details><summary><h3>Wakatime Stats</h3></summary>
   
 <img src="https://wakatime.com/share/@Eskabore/24586003-ad95-407f-9cd7-4eaf3592618e.svg" width="80%" height="auto"/>
 
   </details>
+ </div>
 <!--END_SECTION:waka-->
 
 
