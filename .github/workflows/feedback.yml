@@ -15,12 +15,16 @@ jobs:
         with:
           github-token: ${{ secrets.GH_TOKEN }}
           script: |
-            const feedback = `**Feedback from ${context.payload.issue.user.login}:**\n\n${context.payload.issue.body}`;
-            const title = `New feedback from ${context.payload.issue.user.login}`;
-            const newIssue = await github.issues.create({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              title: title,
-              body: feedback
-            });
-            console.log(`New issue created: ${newIssue.data.html_url}`);
+           if (context.eventName === 'issues') {
+             const feedback = `**Feedback from ${context.payload.issue.user.login}:**\n\n${context.payload.issue.body}`;
+             const title = `New feedback from ${context.payload.issue.user.login}`;
+             const newIssue = await github.issues.create({
+               owner: context.repo.owner,
+               repo: context.repo.repo,
+               title: title,
+               body: feedback
+             });
+             console.log(`New issue created: ${newIssue.data.html_url}`);
+           } else {
+             console.log('This event is not triggered by an "issues" event.');
+           }
