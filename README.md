@@ -1,5 +1,18 @@
 <!-- Begin HEADER Section --> 
-[![Send Feedback](https://img.shields.io/badge/Send%20Feedback-Click%20Here-blue?style=for-the-badge)](https://ikrw0yzi9gy.typeform.com/to/USWYQlvZ)
+
+<!-- Begin Send Feedback button Section -->
+
+<div align="right">
+
+<a href="https://ikrw0yzi9gy.typeform.com/to/USWYQlvZ" target="_blank">
+  <img src="https://img.shields.io/badge/Send%20Feedback-Click%20Here-1abc9c?style=flat-square" alt="Send Feedback">
+</a>
+
+</div>
+
+<!-- End Send Feedback button Section -->
+
+
 
 
   <!--- Begin Typing on Entrance Section -->
