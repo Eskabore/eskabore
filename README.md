@@ -16,7 +16,7 @@
 
   <!-- End wakatime Activity SVG Section -->
 
-<details><summary>More details about my monthly coding activity (24h refresh rate)</summary>
+<details><summary>More details about my monthly coding activity <i>(24h refresh rate)</i></summary>
   
 <!--START_SECTION:waka-->
 
