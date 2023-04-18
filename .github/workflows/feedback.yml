@@ -3,6 +3,8 @@ name: Send Feedback
 on:
   issues:
     types: [opened]
+  push:
+    branches: [master]
 
 jobs:
   send_feedback:
