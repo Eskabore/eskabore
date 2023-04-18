@@ -1,3 +1,5 @@
+<!-- Begin HEADER Section --> 
+
   <!--- Begin Typing on Entrance Section -->
   
 <div align="center">
@@ -5,7 +7,17 @@
 </div>
 
   <!--- End Typing on Entrance Section -->
+  
+  <!-- Begin Wakatime Activity Section -->
+  
+  <!-- Begin wakatime Activity SVG Section -->
+  
+<img src="https://raw.githubusercontent.com/Eskabore/eskabore/847f6f8a2ba066a19e0d1d949ba057181311d3fc/images/stat.svg" />
 
+  <!-- End wakatime Activity SVG Section -->
+
+<details><summary>More details about my monthly coding activity (24h refresh rate)</summary>
+  
 <!--START_SECTION:waka-->
 
 ```text
@@ -23,7 +35,13 @@ Other        36 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<!--- Begin Intro Section -->
+ </details>
+  
+<!-- End Wakatime Activity Section -->
+
+<!-- End HEADER Section -->
+
+<!--- Begin INTRO Section -->
 
 <!--- Begin Contact Information Section -->
   
@@ -41,9 +59,9 @@ Other        36 mins         ▒░░░░░░░░░░░░░░░░
 </div>
   
   <!-- End Badges Section -->
-<!-- End Intro Section -->
+<!-- End INTRO Section -->
 
-<!--- Begin About Me Section -->
+<!--- Begin ABOUT ME Section -->
 <h2 align="center">About Me</h2>
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">
   
@@ -57,7 +75,7 @@ Committed to both personal and professional growth, I am always open to giving a
 
 This year, my goal is to acquire cloud and Salesforce certifications to further enhance my skill set and increase my value to clients.
 </p>
- <!--- End About Me Section -->
+ <!--- End ABOUT ME Section -->
  
  <!-- Begin Education Section -->
  <h2 align="center">🏫 Education</h2>
