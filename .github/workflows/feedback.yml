@@ -13,7 +13,7 @@ jobs:
       - name: Send feedback to GitHub
         uses: actions/github-script@v4
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GH_TOKEN }}
           script: |
             const feedback = `**Feedback from ${context.payload.issue.user.login}:**\n\n${context.payload.issue.body}`;
             const title = `New feedback from ${context.payload.issue.user.login}`;
