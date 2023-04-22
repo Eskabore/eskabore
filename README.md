@@ -170,8 +170,10 @@ This year, my goal is to acquire cloud and Salesforce certifications to further 
  <!--- Begin Snake GIF Section -->
 
 <div align="center">
+
+![My Activity Snake SVG](https://github.com/Eskabore/eskabore/blob/output/github-contribution-grid-snake.svg)
   
-<img src="https://user-images.githubusercontent.com/45074124/232567318-a5aa22be-0cf3-4e36-af73-26b8572c57b8.svg" />
+<!--img src="https://user-images.githubusercontent.com/45074124/232567318-a5aa22be-0cf3-4e36-af73-26b8572c57b8.svg" -->
   
 </div>
 
