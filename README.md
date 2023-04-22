@@ -27,7 +27,9 @@
   
   <!-- Begin wakatime Activity SVG Section -->
   
-<img src="https://raw.githubusercontent.com/Eskabore/eskabore/e408898243480718d2256b60bf2e64640aa6ecdb/images/stat.svg" />
+  ![My Monthly Activity Stat SVG](https://github.com/Eskabore/eskabore/blob/master/images/stat.svg)
+  
+<!-- img src="https://raw.githubusercontent.com/Eskabore/eskabore/e408898243480718d2256b60bf2e64640aa6ecdb/images/stat.svg" -->
 
   <!-- End wakatime Activity SVG Section -->
 
