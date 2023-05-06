@@ -39,14 +39,20 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 April 2023 - To: 03 May 2023
+From: 04 April 2023 - To: 04 May 2023
 
-Total Time: 98 hrs 43 mins
+Total Time: 99 hrs 49 mins
 
-Python         44 hrs          ███████████░░░░░░░░░░░░░░   44.58 %
-TypeScript     33 hrs 18 mins  ████████▒░░░░░░░░░░░░░░░░   33.73 %
-JavaScript     9 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
-Other          2 hrs 57 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Python         47 hrs 52 mins  ████████████░░░░░░░░░░░░░   47.96 %
+TypeScript     30 hrs 27 mins  ███████▓░░░░░░░░░░░░░░░░░   30.52 %
+JavaScript     8 hrs 56 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+Other          2 hrs 57 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Markdown       2 hrs 29 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+JSON           2 hrs 23 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+XML            1 hr 5 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Bash           1 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+CSV            45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Git Config     35 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
