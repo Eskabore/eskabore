@@ -150,6 +150,7 @@ This year, my goal is to acquire cloud and Salesforce certifications to further 
 <div class="youtube videos cards" align="center">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![CS50P Image Editor](https://ytcards.demolab.com/?id=A0UyIOmRCAI&title=CS50P+Image+Editor&lang=en&timestamp=1683737659&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CS50P Image Editor")](https://www.youtube.com/watch?v=A0UyIOmRCAI)
 [![CS50P - Indoor Voice](https://ytcards.demolab.com/?id=nYInu6_l2Sk&title=CS50P+-+Indoor+Voice&lang=en&timestamp=1675107111&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CS50P - Indoor Voice")](https://www.youtube.com/watch?v=nYInu6_l2Sk)
 [![CS50 Final Project 2023 - Number Converter](https://ytcards.demolab.com/?id=gTvI4iPJbEg&title=CS50+Final+Project+2023+-+Number+Converter&lang=en&timestamp=1674860744&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CS50 Final Project 2023 - Number Converter")](https://www.youtube.com/watch?v=gTvI4iPJbEg)
 [![output free](https://ytcards.demolab.com/?id=35j3drHLczY&title=output+free&lang=en&timestamp=1600975149&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "output free")](https://www.youtube.com/watch?v=35j3drHLczY)
