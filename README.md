@@ -83,6 +83,7 @@ CSV            45 mins         ▒░░░░░░░░░░░░░░░�
   <!-- End Badges Section -->
 <!-- End INTRO Section -->
 
+_“Any bug not detected in the design phase will cost ten times more time to detect at the coding phase and an additional ten times more at the debugging phase.”_ —Dr. Nikolai Bezroukov, **The Art of Debugging**
 <!--- Begin ABOUT ME Section -->
 <h2 align="center">About Me</h2>
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">
