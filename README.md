@@ -83,7 +83,10 @@ CSV            45 mins         ▒░░░░░░░░░░░░░░░�
   <!-- End Badges Section -->
 <!-- End INTRO Section -->
 
+<!-- Begin Quotes Section -->
 _“Any bug not detected in the design phase will cost ten times more time to detect at the coding phase and an additional ten times more at the debugging phase.”_ —Dr. Nikolai Bezroukov, **The Art of Debugging**
+<!-- End Quote Section -->
+
 <!--- Begin ABOUT ME Section -->
 <h2 align="center">About Me</h2>
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">
@@ -205,9 +208,9 @@ This year, my goal is to acquire cloud and Salesforce certifications to further 
  </details>
 
   <details><summary><h3>Most used Languages (current public repositories)</h3></summary>
-<img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eskabore&layout=compact&show_icons=true&theme=algolia&border_radius=50">
+<img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eskabore&layout=donut&show_icons=true&theme=algolia&border_radius=50">
 </details>
-  
+ 
 <!--- Begin Stats/Github trophies Section -->
 <details><summary><h3 id="trophies">Github trophies:</h3></summary>
 <div id="trophies" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eskabore" alt="eskabore" /></a>
