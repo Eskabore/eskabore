@@ -202,8 +202,8 @@ This year, my goal is to acquire cloud and Salesforce certifications to further 
 
   <details><summary><h3>Github Stats</h3></summary>
    
-![Jean-Luc KABORE-TURQUIN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eskabore&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=50)
-![GitHub Streak](https://streak-stats.demolab.com?user=Eskabore&count_private=false&theme=algolia&border_radius=50)
+<img alt="esabore github stats" src="https://github-readme-stats.vercel.app/api?username=Eskabore&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=50">    
+<img alt="eskabore github streak" src="https://streak-stats.demolab.com?user=Eskabore&count_private=false&theme=algolia&border_radius=50">
    
  </details>
 
