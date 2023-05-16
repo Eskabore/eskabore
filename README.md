@@ -91,7 +91,7 @@ _“Any bug not detected in the design phase will cost ten times more time to de
 <h2 align="center">About Me</h2>
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">
   
-Certified Full-Stack Developer with a B.A. in Management and experience in Sales and Salesforce Administration, I offer a unique combination of technical know-how and business insight.
+As a certified Full-Stack Developer holding a B.A. in Management, I blend my technical expertise with my understanding of business dynamics. With a diverse background in Sales and Salesforce Administration, I leverage my unique blend of skills to translate business needs into comprehensive technical solutions.
 
 My skill set includes proficiency in Node.js and React.js, experience with RESTful APIs, familiarity with modern authorization mechanisms like JSON Web Tokens, and a strong foundation in relational databases/SQL and Git. I excel at grasping business needs and converting them into technical requirements.
 
