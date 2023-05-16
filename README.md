@@ -93,13 +93,13 @@ _“Any bug not detected in the design phase will cost ten times more time to de
   
 As a certified Full-Stack Developer holding a B.A. in Management, I blend my technical expertise with my understanding of business dynamics. With a diverse background in Sales and Salesforce Administration, I leverage my unique blend of skills to translate business needs into comprehensive technical solutions.
 
-My skill set includes proficiency in Node.js and React.js, experience with RESTful APIs, familiarity with modern authorization mechanisms like JSON Web Tokens, and a strong foundation in relational databases/SQL and Git. I excel at grasping business needs and converting them into technical requirements.
+I'm proficient in Node.js and React.js, and experienced in working with RESTful APIs. I'm familiar with modern authorization mechanisms such as JSON Web Tokens and have a strong foundation in relational databases/SQL and version control using Git.
 
-As a Salesforce expert, I have a wealth of experience in customizing the console and seamlessly integrating Salesforce with other systems across various projects. My specialty lies in tailoring Sales Cloud and Service Cloud to address client-specific requirements, as well as providing training and support to end-users.
+With extensive experience as a Salesforce expert, I've excelled in customizing Salesforce consoles and integrating them seamlessly with various systems across different projects. My forte lies in tailoring Sales Cloud and Service Cloud to cater to unique client requirements, while also providing training and support to end-users.
 
-Committed to both personal and professional growth, I am always open to giving and receiving feedback. I maintain an avid interest in the latest tech advancements and actively participate in events like Google Developers Group Berlin, where I learn from industry leaders.
+A lifelong learner, I'm committed to both personal and professional growth. Open to giving and receiving feedback, I stay updated with the latest tech advancements by actively participating in events such as the Google Developers Group Berlin. Here, I engage with and learn from industry leaders.
 
-This year, my goal is to acquire cloud and Salesforce certifications to further enhance my skill set and increase my value to clients.
+This year, I'm aiming to augment my skills further by acquiring cloud and Salesforce certifications, with the goal of delivering even more value to my clients.
 </p>
  <!--- End ABOUT ME Section -->
  
