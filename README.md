@@ -110,6 +110,7 @@ This year, I'm aiming to augment my skills further by acquiring cloud and Salesf
 - D.E.C Art et Lettres - Langues from [CEGEP du Vieux Montréal](https://www.cvm.qc.ca/)
 - Certification Full-Stack Developer from [SPICED Academy](https://www.spiced-academy.com/)
 - Certification CS50x (Introducction to Computer Scienvce) from [Harvard University online via edX](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+- Certification CS50P (Programming with Python) from [Harvard University online via edX](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
  <!-- End Education Section -->
  
 <!--- Begin Skills Section -->
