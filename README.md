@@ -39,20 +39,20 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 April 2023 - To: 16 May 2023
+From: 17 April 2023 - To: 17 May 2023
 
-Total Time: 91 hrs 16 mins
+Total Time: 91 hrs 30 mins
 
-Python         56 hrs 29 mins  ███████████████▒░░░░░░░░░   61.89 %
-TypeScript     12 hrs 33 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
-JavaScript     6 hrs 55 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-HTML           2 hrs 33 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-JSON           2 hrs 29 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-Other          2 hrs 28 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-Markdown       2 hrs 4 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-Bash           1 hr 21 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Python         55 hrs 23 mins  ███████████████░░░░░░░░░░   60.53 %
+TypeScript     11 hrs 52 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
+JavaScript     7 hrs 47 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+JSON           3 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Other          2 hrs 46 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+HTML           2 hrs 36 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Markdown       1 hr 57 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Bash           1 hr 21 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 XML            1 hr 11 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-CSV            45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+CSV            38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
