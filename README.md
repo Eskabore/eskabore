@@ -181,7 +181,7 @@ This year, I'm aiming to augment my skills further by acquiring cloud and Salesf
 
 
 <!--- Statistics Section-->
-<h2>📊 Statistics</h2>
+<h2 align="center">📊 Statistics</h2>
  <!--- Begin Snake GIF Section -->
 
 <div align="center">
