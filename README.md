@@ -230,7 +230,7 @@ This year, I'm aiming to augment my skills further by acquiring cloud and Salesf
   
 <!-- Hobbies -->
 
-<h2>🎶 Listening...</h2>
+<h2>🎶 Listening to...</h2>
 
 <div align="center">
 
