@@ -111,6 +111,7 @@ This year, I'm aiming to augment my skills further by acquiring cloud and Salesf
 - Certification Full-Stack Developer from [SPICED Academy](https://www.spiced-academy.com/)
 - Certification CS50x (Introduction to Computer Scienvce) from [Harvard University online via edX](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 - Certification CS50P (Programming with Python) from [Harvard University online via edX](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+- Salesforce Administrator Certification (SCA) from Salesforce - [Visit my Trailblazer profile](https://trailblazer.me/id/jkabore-turquin)
  <!-- End Education Section -->
  
 <!--- Begin Skills Section -->
