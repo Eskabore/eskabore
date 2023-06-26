@@ -39,19 +39,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2023 - To: 23 June 2023
+From: 25 May 2023 - To: 24 June 2023
 
-Total Time: 66 hrs 8 mins
+Total Time: 65 hrs 56 mins
 
-C             58 hrs 5 mins   ██████████████████████░░░   87.85 %
-Makefile      6 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+C             57 hrs 55 mins  ██████████████████████░░░   87.83 %
+Makefile      6 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
 Text          59 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 Other         16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 JSON          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 D             6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 Objective-C   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 JavaScript    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Markdown      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
