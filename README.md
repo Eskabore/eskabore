@@ -39,13 +39,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2023 - To: 14 July 2023
+From: 15 June 2023 - To: 15 July 2023
 
-Total Time: 3 hrs 14 mins
+Total Time: 1 hr 21 mins
 
-C          2 hrs 44 mins   █████████████████████▒░░░   84.99 %
-Makefile   29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.01 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C          1 hr 2 mins     ███████████████████░░░░░░   76.34 %
+Makefile   19 mins         ██████░░░░░░░░░░░░░░░░░░░   23.65 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
