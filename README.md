@@ -39,11 +39,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2023 - To: 24 August 2023
+From: 26 July 2023 - To: 25 August 2023
 
 Total Time: 0 secs
 
-C   0 secs          █████████████████████████   100.00 %
+XML     0 secs          █████████████▓░░░░░░░░░░░   55.01 %
+C       0 secs          █████████▒░░░░░░░░░░░░░░░   36.90 %
+Ezhil   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
 ```
 
 <!--END_SECTION:waka-->
