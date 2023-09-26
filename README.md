@@ -39,20 +39,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2023 - To: 23 September 2023
+From: 25 August 2023 - To: 24 September 2023
 
-Total Time: 6 hrs 48 mins
+Total Time: 8 hrs 48 mins
 
-Java              4 hrs 40 mins   █████████████████▒░░░░░░░   68.71 %
-Groovy            29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-Java Properties   26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
-Docker            19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-Python            15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-YAML              15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-Batchfile         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-HTML              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-Other             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Bash              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Java              4 hrs 40 mins   █████████████▒░░░░░░░░░░░   53.12 %
+TypeScript        1 hr 30 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
+Groovy            29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+Java Properties   26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Docker            19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+Python            16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Assembly          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+YAML              15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Batchfile         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Text              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
