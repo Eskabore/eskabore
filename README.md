@@ -39,20 +39,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2023 - To: 06 October 2023
+From: 07 September 2023 - To: 07 October 2023
 
-Total Time: 8 hrs 13 mins
+Total Time: 8 hrs 8 mins
 
-Java              4 hrs 40 mins   ██████████████▒░░░░░░░░░░   56.91 %
-TypeScript        1 hr 30 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.31 %
-Groovy            29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-Java Properties   26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-Python            16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-Assembly          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-Batchfile         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-Text              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-JSON              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-HTML              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Java              4 hrs 40 mins   ██████████████▒░░░░░░░░░░   57.46 %
+TypeScript        1 hr 30 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
+Groovy            28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Java Properties   23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+Python            16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+Assembly          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Batchfile         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Text              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+JSON              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+HTML              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
