@@ -39,12 +39,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2023 - To: 06 November 2023
+From: 08 October 2023 - To: 07 November 2023
 
-Total Time: 15 mins
+Total Time: 0 secs
 
-TypeScript   8 mins          █████████████░░░░░░░░░░░░   52.25 %
-C            7 mins          ████████████░░░░░░░░░░░░░   47.75 %
+TypeScript   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
