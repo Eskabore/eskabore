@@ -39,15 +39,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 December 2023 - To: 18 January 2024
+From: 20 December 2023 - To: 19 January 2024
 
-Total Time: 1 hr 35 mins
+Total Time: 4 hrs 19 mins
 
-JavaScript   1 hr 7 mins     █████████████████▓░░░░░░░   70.56 %
-JSON         14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
-HTML         10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
-XML          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+JavaScript   1 hr 59 mins    ███████████▒░░░░░░░░░░░░░   45.81 %
+HTML         1 hr 12 mins    ███████░░░░░░░░░░░░░░░░░░   27.79 %
+XML          45 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
+JSON         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+CSS          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
