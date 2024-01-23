@@ -39,16 +39,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2023 - To: 20 January 2024
+From: 22 December 2023 - To: 21 January 2024
 
-Total Time: 4 hrs 19 mins
+Total Time: 4 hrs 30 mins
 
-JavaScript   1 hr 59 mins    ███████████▒░░░░░░░░░░░░░   45.81 %
-HTML         1 hr 12 mins    ███████░░░░░░░░░░░░░░░░░░   27.79 %
-XML          45 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
-JSON         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-CSS          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+JavaScript   2 hrs 4 mins    ███████████▒░░░░░░░░░░░░░   45.81 %
+HTML         1 hr 12 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.79 %
+XML          50 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.73 %
+JSON         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+CSS          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
