@@ -39,17 +39,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2024 - To: 16 February 2024
+From: 18 January 2024 - To: 17 February 2024
 
-Total Time: 9 hrs 51 mins
+Total Time: 8 hrs 27 mins
 
-JavaScript     5 hrs 12 mins   █████████████▒░░░░░░░░░░░   52.78 %
-HTML           3 hrs 6 mins    ████████░░░░░░░░░░░░░░░░░   31.55 %
-XML            1 hr 1 min      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
-JSON           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Other          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-CSS            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-OpenEdge ABL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+JavaScript     4 hrs 14 mins   ████████████▓░░░░░░░░░░░░   50.07 %
+HTML           2 hrs 58 mins   ████████▓░░░░░░░░░░░░░░░░   35.20 %
+XML            59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+CSS            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Other          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+JSON           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+OpenEdge ABL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
