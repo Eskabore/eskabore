@@ -39,15 +39,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 07 March 2024
+From: 07 February 2024 - To: 08 March 2024
 
-Total Time: 8 hrs 19 mins
+Total Time: 8 hrs 24 mins
 
-JavaScript     4 hrs 28 mins   █████████████▒░░░░░░░░░░░   53.64 %
-HTML           1 hr 53 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.63 %
-XML            1 hr 53 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.63 %
-CSS            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-OpenEdge ABL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+JavaScript   4 hrs 33 mins   █████████████▓░░░░░░░░░░░   54.14 %
+XML          1 hr 53 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.58 %
+HTML         1 hr 53 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.40 %
+CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
