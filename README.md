@@ -39,14 +39,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 April 2024 - To: 08 May 2024
+From: 09 April 2024 - To: 09 May 2024
 
 Total Time: 35 hrs 41 mins
 
-JavaScript   17 hrs 5 mins   ████████████░░░░░░░░░░░░░   47.91 %
-HTML         13 hrs 54 mins  █████████▓░░░░░░░░░░░░░░░   38.95 %
+JavaScript   17 hrs 24 mins  ████████████▒░░░░░░░░░░░░   48.76 %
+HTML         13 hrs 38 mins  █████████▓░░░░░░░░░░░░░░░   38.21 %
 CSS          4 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
-XML          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+XML          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
