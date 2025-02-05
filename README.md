@@ -83,7 +83,7 @@ No activity tracked
 <!-- Begin Quotes Section -->
 _“Any bug not detected in the design phase will cost ten times more time to detect at the coding phase and an additional ten times more at the debugging phase.”_ —Dr. Nikolai Bezroukov, **The Art of Debugging**
 <!-- End Quote Section -->
-https://www.canva.com/design/DAGePiTUoJY/E_iNPiw0PZ1iJX5qR3Uzqg/edit?utm_content=DAGePiTUoJY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 <!--- Begin ABOUT ME Section -->
 <h2 align="center">About Me</h2>
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">
