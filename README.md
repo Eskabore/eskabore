@@ -81,12 +81,12 @@ No activity tracked
 <!-- Begin Quotes Section -->
 _“Any bug not detected in the design phase will cost ten times more time to detect at the coding phase and an additional ten times more at the debugging phase.”_ —Dr. Nikolai Bezroukov, **The Art of Debugging**
 <!-- End Quote Section -->
-
+https://www.canva.com/design/DAGePiTUoJY/E_iNPiw0PZ1iJX5qR3Uzqg/edit?utm_content=DAGePiTUoJY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 <!--- Begin ABOUT ME Section -->
 <h2 align="center">About Me</h2>
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">
   
-As a certified Full-Stack Developer holding a B.A. in Management, I blend my technical expertise with my understanding of business dynamics. With a diverse background in Sales and Salesforce Administration, I leverage my unique blend of skills to translate business needs into comprehensive solutions.
+As a certified Full-Stack Developer and Salesforce Administrator holding a B.A. in Management, I blend my technical expertise with my understanding of business dynamics. With a diverse background in Sales and Salesforce Administration, I leverage my unique blend of skills to translate business needs into comprehensive solutions.
 
 I'm proficient in Node.js and React.js, and experienced in working with RESTful APIs. I'm familiar with modern authorization mechanisms such as JSON Web Tokens and have a strong foundation in relational databases/SQL and version control using Git.
 
