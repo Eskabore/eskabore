@@ -233,7 +233,14 @@ This year, I'm aiming to augment my skills further by acquiring cloud and Salesf
  
 <!-- Begin Footer -->
 <!-- Icons Resources -->
-
+<div align="center">
+  <a href="https://twitter.com/luc_turquin" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/luc_turquin?style=social" alt="Twitter Follow">
+  </a>
+  <a href="https://www.linkedin.com/in/jlkabore-turquin/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 <div class="footer" align="center" style="margin:15px;">
 <a href="https://codepen.io/eskabore" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="eskabore" height="30" width="40" /></a>  
 <a href="https://dev.to/eskabore" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="eskabore" height="30" width="40" /></a>  
