@@ -19,7 +19,7 @@
   <!--- Begin Typing on Entrance Section -->
   
 <div align="center">
- <a href="https://jl-turquin.com" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=4000&pause=1000&color=BB1F3BBB&center=true&vCenter=true&width=435&lines=Jean-Luc+KABORE-TURQUIN;Fullstack+Developer;SALESFORCE+Consultant" alt="Typing SVG" /></a>
+ <a href="https://jl-turquin.com" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=4000&pause=1000&color=BB1F3BBB&center=true&vCenter=true&width=435&lines=👋+Jean-Luc+KABORE-TURQUIN;💻+Fullstack+Developer;⚡+SALESFORCE+Consultant" alt="Typing SVG" /></a>
 </div>
 
   <!--- End Typing on Entrance Section -->
