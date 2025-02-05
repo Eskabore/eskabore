@@ -63,7 +63,9 @@ No activity tracked
 <!--- Begin Contact Information Section -->
   
 <div align="center">
-  <a href="mailto:jl.turquin@diffrenzz.com">Email Me</a>
+  <a href="mailto:jl.turquin@diffrenzz.com">
+    <img src="https://img.shields.io/badge/Email-Me-1abc9c?style=for-the-badge" alt="Email Me">
+  </a>
 </div>
 <br>
 <!--- End Contact Information Section -->
