@@ -6,7 +6,7 @@
   <a href="https://ikrw0yzi9gy.typeform.com/to/USWYQlvZ" target="_blank">
     <img src="https://img.shields.io/badge/Send%20Feedback-Click%20Here-1abc9c?style=flat-square" alt="Send Feedback">
   </a>
-  ![status](https://badge.stateful.com/Eskabore/status.svg) ![status](https://badge.stateful.com/Eskabore/dnd.svg)
+  
 </div>
 
 
