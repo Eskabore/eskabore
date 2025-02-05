@@ -25,17 +25,7 @@
 
   <!--- End Typing on Entrance Section -->
 
-<!--- Start "Let's Collaborate" Section -->
 
- <div align="center">
-  <h3>Let's Collaborate! 🚀</h3>
-  <p>Feel free to reach out if you'd like to work together or just chat about tech!</p>
-  <a href="mailto:jl.turquin@diffrenzz.com">
-    <img src="https://img.shields.io/badge/Email-Me-1abc9c?style=for-the-badge" alt="Email Me">
-  </a>
-</div>
-
-<!--- End "Let's Collaborate" Section -->
 
 
   <!-- Begin Wakatime Activity Section -->
@@ -265,7 +255,17 @@ This year, I'm aiming to augment my skills further by acquiring cloud and Salesf
 <br>
 <!-- End Footer -->
   
-  
+  <!--- Start "Let's Collaborate" Section -->
+
+ <div align="center">
+  <h3>Let's Collaborate! 🚀</h3>
+  <p>Feel free to reach out if you'd like to work together or just chat about tech!</p>
+  <a href="mailto:jl.turquin@diffrenzz.com">
+    <img src="https://img.shields.io/badge/Email-Me-1abc9c?style=for-the-badge" alt="Email Me">
+  </a>
+</div>
+
+<!--- End "Let's Collaborate" Section -->
   <!-- <details><summary><h3>Front-end Development</h3></summary>
       <img  alt="JavaScript" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
       <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
