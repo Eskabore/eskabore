@@ -17,6 +17,14 @@
 ![status](https://badge.stateful.com/Eskabore/dnd.svg)
 
   <!--- Begin Typing on Entrance Section -->
+
+  <div align="center">
+  <h3>Let's Collaborate! 🚀</h3>
+  <p>Feel free to reach out if you'd like to work together or just chat about tech!</p>
+  <a href="mailto:jl.turquin@diffrenzz.com">
+    <img src="https://img.shields.io/badge/Email-Me-1abc9c?style=for-the-badge" alt="Email Me">
+  </a>
+</div>
   
 <div align="center">
  <a href="https://jl-turquin.com" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=4000&pause=1000&color=BB1F3BBB&center=true&vCenter=true&width=435&lines=👋+Jean-Luc+KABORE-TURQUIN;💻+Fullstack+Developer;⚡+SALESFORCE+Consultant" alt="Typing SVG" /></a>
