@@ -43,13 +43,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 February 2025 - To: 29 March 2025
+From: 28 February 2025 - To: 30 March 2025
 
-Total Time: 14 mins
+Total Time: 0 secs
 
-XML          8 mins          ███████████████▒░░░░░░░░░   61.74 %
-JavaScript   3 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.96 %
-HTML         1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
