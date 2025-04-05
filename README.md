@@ -43,11 +43,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 March 2025 - To: 02 April 2025
+From: 04 March 2025 - To: 03 April 2025
 
-Total Time: 0 secs
+Total Time: 8 mins
 
-No activity tracked
+HTML         4 mins          █████████████░░░░░░░░░░░░   51.88 %
+JSON         3 mins          ███████████▓░░░░░░░░░░░░░   46.69 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
