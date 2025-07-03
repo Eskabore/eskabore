@@ -35,7 +35,7 @@
   
   <!-- Begin wakatime Activity SVG Section -->
   
-  <img src="https://github.com/Eskabore/eskabore/blob/master/image/stat.svg" alt="My Monthly Activity Stat SVG">
+  <img src="https://github.com/Eskabore/eskabore/blob/master/images/stat.svg" alt="My Monthly Activity Stat SVG">
   
 <!-- img src="https://raw.githubusercontent.com/Eskabore/eskabore/e408898243480718d2256b60bf2e64640aa6ecdb/images/stat.svg" -->
 
