@@ -12,9 +12,6 @@
 
 <!-- End Send Feedback button Section -->
 
-![status](https://badge.stateful.com/Eskabore/status.svg)
-
-![status](https://badge.stateful.com/Eskabore/dnd.svg)
 
   <!--- Begin Typing on Entrance Section -->
 
