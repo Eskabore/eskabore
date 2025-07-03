@@ -16,7 +16,7 @@
   <!--- Begin Typing on Entrance Section -->
 
   <div align="center">
-    <img src="https://raw.githubusercontent.com/Eskabore/eskabore/master/images/octocat-1751568780388.png" alt="My octocat" height="150px">
+    <img src="https://raw.githubusercontent.com/Eskabore/eskabore/master/images/octocat-1751568780388.png" alt="My octocat" height="200px">
   </div>
   
 <div align="center">
