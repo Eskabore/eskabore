@@ -18,6 +18,9 @@
 
   <!--- Begin Typing on Entrance Section -->
 
+  <div align="center">
+    <img src="https://github.com/Eskabore/eskabore/blob/master/images/octocat-1751568780388.png" alt="My octocat" height="100px">
+  </div>
   
 <div align="center">
  <a href="https://jl-turquin.com" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=4000&pause=1000&color=BB1F3BBB&center=true&vCenter=true&width=435&lines=👋+Jean-Luc+KABORE-TURQUIN;💻+Fullstack+Developer;⚡+SALESFORCE+Consultant" alt="Typing SVG" /></a>
@@ -32,7 +35,7 @@
   
   <!-- Begin wakatime Activity SVG Section -->
   
-  <img src="https://github.com/Eskabore/eskabore/blob/master/images/stat.svg" alt="My Monthly Activity Stat SVG">
+  <img src="https://github.com/Eskabore/eskabore/blob/master/image/stat.svg" alt="My Monthly Activity Stat SVG">
   
 <!-- img src="https://raw.githubusercontent.com/Eskabore/eskabore/e408898243480718d2256b60bf2e64640aa6ecdb/images/stat.svg" -->
 
