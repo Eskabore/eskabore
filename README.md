@@ -45,19 +45,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2025 - To: 03 July 2025
+From: 04 June 2025 - To: 04 July 2025
 
-Total Time: 28 hrs 37 mins
+Total Time: 28 hrs 36 mins
 
-TypeScript   14 hrs 39 mins  ████████████▓░░░░░░░░░░░░   51.18 %
-JavaScript   6 hrs 47 mins   ██████░░░░░░░░░░░░░░░░░░░   23.74 %
-Bash         3 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+TypeScript   14 hrs 39 mins  ████████████▓░░░░░░░░░░░░   51.20 %
+JavaScript   6 hrs 46 mins   ██████░░░░░░░░░░░░░░░░░░░   23.70 %
+Bash         3 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
 JSON         2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
 CSS          36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
 Other        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 SQL          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 TSConfig     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Git Config   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Git Config   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
