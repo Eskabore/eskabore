@@ -45,16 +45,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2025 - To: 01 September 2025
+From: 03 August 2025 - To: 02 September 2025
 
-Total Time: 7 hrs
+Total Time: 7 hrs 19 mins
 
-TypeScript     4 hrs 34 mins   ████████████████▒░░░░░░░░   65.34 %
-OpenEdge ABL   1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
-XML            46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
-Markdown       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-JSON           11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Git Config     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+TypeScript     4 hrs 34 mins   ███████████████▓░░░░░░░░░   62.46 %
+OpenEdge ABL   1 hr 22 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
+XML            46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+Markdown       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+JSON           11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Git Config     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 JavaScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
