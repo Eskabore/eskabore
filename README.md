@@ -45,17 +45,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 October 2025 - To: 27 November 2025
+From: 29 October 2025 - To: 28 November 2025
 
-Total Time: 87 hrs 33 mins
+Total Time: 92 hrs 16 mins
 
-OpenEdge ABL   50 hrs 40 mins  ██████████████▒░░░░░░░░░░   57.87 %
-JavaScript     29 hrs 49 mins  ████████▓░░░░░░░░░░░░░░░░   34.05 %
-CSS            3 hrs 47 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-XML            2 hrs 44 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-Apex           22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+OpenEdge ABL   49 hrs 21 mins  █████████████▒░░░░░░░░░░░   53.49 %
+JavaScript     36 hrs 15 mins  █████████▓░░░░░░░░░░░░░░░   39.29 %
+CSS            3 hrs 47 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+XML            2 hrs 27 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Apex           15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 Other          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-JSON           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JSON           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 Git            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 Git Config     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
