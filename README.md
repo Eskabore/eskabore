@@ -45,17 +45,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 November 2025 - To: 12 December 2025
+From: 13 November 2025 - To: 13 December 2025
 
-Total Time: 46 hrs 50 mins
+Total Time: 40 hrs 44 mins
 
-JavaScript     30 hrs 32 mins  ████████████████▒░░░░░░░░   65.21 %
-OpenEdge ABL   12 hrs 7 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.88 %
-CSS            3 hrs 47 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-XML            16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Apex           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+JavaScript     30 hrs 13 mins  ██████████████████▓░░░░░░   74.21 %
+OpenEdge ABL   6 hrs 27 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.85 %
+CSS            3 hrs 47 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
+XML            14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 Git Config     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Apex           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
